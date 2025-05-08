@@ -59,4 +59,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ---
 
 Enjoy playing Tower Defense! If you have any questions or feedback, feel free to open an issue in this repository.
-```
